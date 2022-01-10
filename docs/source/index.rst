@@ -15,18 +15,7 @@ Contents
 
 .. toctree::
 
-   Introduction
-   Features
-   Place in the architecture
-   User guide
-   Prerequisites (other enablers in place, k8s persistent volumes free...)
-   Installation
-   Configuration options
-   API usage
-   Developer guide
-   How to contribute
-   Version control and release
-   License
-   Notice (dependencies)
+   api
+   usage
 
 Wiki template has its documentation hosted on Read the Docs.
