@@ -15,6 +15,7 @@ Contents
 
 .. toctree::
 
+   introduction.rst
    api
    usage
 
