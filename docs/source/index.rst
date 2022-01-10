@@ -1,22 +1,28 @@
-Welcome to Lumache's documentation!
+Welcome to ASSIST-IoT documentation!
 ===================================
 
 This is a simple guide for the wiki template.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+#########################
+Wiki Template Guide
+#########################
 
 .. toctree::
+    :numbered:
+    :maxdepth: 1
 
    introduction.rst
-   api
-   usage
+   features
+   architecture.rst
+   userguide.rst
+   prerequisites.rst
+   installation.rst
+   configuration.rst
+   ape.rst
+   developerguide.rst
+   contribution.rst
+   version.rst
+   license.rst
+   notice.rst
 
 Wiki template has its documentation hosted on Read the Docs.
