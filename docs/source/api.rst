@@ -1,7 +1,5 @@
-API
-===
+.. _API usage:
 
-.. autosummary::
-   :toctree: generated
-
-   lumache
+############
+API usage
+############
