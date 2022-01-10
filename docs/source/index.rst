@@ -18,7 +18,7 @@ Wiki Template Guide
     prerequisites.rst
     installation.rst
     configuration.rst
-    ape.rst
+    api.rst
     developerguide.rst
     contribution.rst
     version.rst
